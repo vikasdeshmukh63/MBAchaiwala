@@ -3,7 +3,6 @@ import IntroVideo from "./components/IntroVideo";
 import Section from "./components/Section";
 import Footer from "./components/Footer";
 import Misc from "./components/Misc";
-import Loader from "./components/Loader";
 
 import freshTopicImg from "./assets/academy.png";
 import freshTopicImg2 from "./assets/story.png";
