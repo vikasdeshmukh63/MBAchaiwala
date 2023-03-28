@@ -62,7 +62,6 @@ function App() {
 
   return (
     <div className="App">
-    <Loader/>
       <IntroVideo />
       {/* FreshTopic */}
       <Section
